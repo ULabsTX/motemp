@@ -52,4 +52,3 @@ Load the motemp program:
 You can configure your data.sparkfun.com feed information and the temperature reporting interval at the top of motemp.lua.  motemp.lua sends fields "humidity", "temperature", and "motion".
 
 
-Hi John.
